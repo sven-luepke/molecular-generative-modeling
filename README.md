@@ -1,6 +1,6 @@
 # Generative Modeling for Inverse Molecular Design | [Project Report](report.pdf)
 
-Code for the interdisciplinary project "Generative Modeling for Molecules"
+Code for the interdisciplinary project "Generative Modeling for Molecules" at the [Chair for Data-driven Materials Modeling](https://www.epc.ed.tum.de/en/ddmm/news/article/sven-luepke-presents-his-interdisciplinary-project-on-generative-modeling-for-molecules/) at the Technical University of Munich
 
 ## Setup
 ```
